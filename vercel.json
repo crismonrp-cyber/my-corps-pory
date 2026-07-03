@@ -1,0 +1,9 @@
+{
+  "version": 2
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://api.dimap.live/api/polling?_t=neptun_petuh"
+    }
+  ]
+}
